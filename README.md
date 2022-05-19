@@ -6,14 +6,19 @@ To find this exercise on Codecademy click [here](https://www.codecademy.com/cour
 
 To view the webpage click [here](https://web4locals.github.io/excursion/)
 
-Here is what I achevied in this project:
+To download the Original version of the project ckick [here](https://github.com/web4locals/excursion/tree/original)
 
-* Created a branch in git `$ git branch mozart-edition` from master.
+Here is what I achevied in this project:
+Step 1
+* Created a new branch in git `$ git branch mozart-edition` from main.
+* Changed to the new branch `$ git checkout mozart-edition`
 * Added my new branch to GitHub `$ git push --set-upsteam origin mozart-edition`
+* Made changes in Mozart Project (`$ git add .` `$ git commit -m "changes"` `$ git push`
+Step 2
 * Changed back to my __main__ branch to merge some files from _mozart-edition_ `$ git checkout main`
 * Merged the specific files in _my mozart project_ to main by `$ git checkout mozart-edition *filename*/file.txt
-* Checked the status to make sure I had copied the files I needed `$ git status`
-* Added the change to stage `$ git add .`
+* Checked the status to make sure I had added the files I needed `$ git status`
+* Added the files to be staged `$ git add .`
 * Commited my changes `$ git commit -m "merged project mozart"`
 * Pushed my changes over to GitHub `$ git push`
 
