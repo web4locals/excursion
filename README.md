@@ -1,4 +1,4 @@
-# Excursion
+# Excursion (Completed Project)
 
 Excursion is a Codecademy training exercise in using git/GitHub
 
