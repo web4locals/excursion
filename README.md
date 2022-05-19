@@ -2,9 +2,10 @@
 
 Excursion is a Codecademy training exercise in using git/GitHub
 
+To view the Completed Project chek out the webpage click [here](https://web4locals.github.io/excursion/)
+
 To find this exercise on Codecademy click [here](https://www.codecademy.com/courses/learn-git/projects/f1-excursion)
 
-To view the webpage click [here](https://web4locals.github.io/excursion/)
 
 To download the Original version of the project click [here](https://github.com/web4locals/excursion/tree/original)
 
