@@ -2,7 +2,7 @@ body {
     font-family: Verdana, sans-serif;
     text-align: center;
     background-color: black;
-    background-image: url(/resources/bg.gif);
+    background-image: url(/resources/assets/bg.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
