@@ -6,7 +6,7 @@ To find this exercise on Codecademy click [here](https://www.codecademy.com/cour
 
 To view the webpage click [here](https://web4locals.github.io/excursion/)
 
-To download the Original version of the project ckick [here](https://github.com/web4locals/excursion/tree/original)
+To download the Original version of the project click [here](https://github.com/web4locals/excursion/tree/original)
 
 Here is what I achevied in this project:
 ### Step 1
